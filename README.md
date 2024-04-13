@@ -1,6 +1,4 @@
 <p align="center">
-  <a href="https://github.com/rishabhkeshan/niftix-frontend">
-    <img src="./assets/banner.png" alt="Logo" width="480" height="240">
   </a>
 </p>
 
@@ -34,11 +32,8 @@
 
 - The above commands runs the app in the development mode
 
-  Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 ## 📱 Technologies Used
 
-![tech](assets/tech.png)
 
 EventX is a very advanced platform making use of various decentralised technologies to give the best experience. Some of the technologies used are:
 
@@ -80,22 +75,6 @@ EventX is a very advanced platform making use of various decentralised technolog
   - EventX heavily uses IPFS to store metadata and NFT assets on the decentralised internet
   - We also heavily rely on push protocol's notifications and chat features, which is a stored in a highly secure manner on IPFS
 
-## A demostration of App
-
-- A mockup design
-
-[Figma](https://www.figma.com/file/VzKNPuj5rvFDjLURrXyHHv/30percenttax?node-id=20%3A271&t=Qp1DjkAbeWTeX81p-1)
-
-- Click the Image to be redirected to the Video
-
-[![YouTube Video](https://img.youtube.com/vi/0RbT3pZK-H4/0.jpg)](https://www.youtube.com/watch?v=0RbT3pZK-H4)
-
-## 🤝 Contributions
-
-- Feel Free to Open a PR/Issue for any feature or bug(s).
-- Make sure you follow the [community guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)!
-- Feel free to open an issue to ask a question/discuss anything about eventX.
-- Have a feature request? Open an [Issue](https://github.com/darthbenro/eventx/issues/new)!
 
 ## ⚖ License
 
