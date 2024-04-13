@@ -75,9 +75,3 @@ EventX is a very advanced platform making use of various decentralised technolog
   - EventX heavily uses IPFS to store metadata and NFT assets on the decentralised internet
   - We also heavily rely on push protocol's notifications and chat features, which is a stored in a highly secure manner on IPFS
 
-
-## ⚖ License
-
-Copyright 2021 Hemanth Krishna, Rishabh Keshan and Harsh Singhal
-
-Licensed under MIT License : https://opensource.org/licenses/MIT
