@@ -4,6 +4,9 @@
 
 # EventX
 
+<img width="500" height="1000" alt="image" src="https://github.com/user-attachments/assets/809f37f1-cece-431f-bf82-88af1ff3dd5e" />
+
+
 > Reimagine events via E2E Event Management, offering pre-during-post event soulns. With NFT-based ticket issuance, chain attendance, IRL phygital mgmt system, unique ways of networking and memories!
 
 ## 🍿 Features
@@ -74,4 +77,5 @@ EventX is a very advanced platform making use of various decentralised technolog
 - **IPFS/Filecoin**
   - EventX heavily uses IPFS to store metadata and NFT assets on the decentralised internet
   - We also heavily rely on push protocol's notifications and chat features, which is a stored in a highly secure manner on IPFS
+
 
